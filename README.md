@@ -15,4 +15,4 @@ Some Features:
 
 ## PROJECT GALLERY :
 
-![Home Page](<Readme_Images/Homepage.png>)
+![project-2](https://github.com/user-attachments/assets/3a04a427-52fc-4529-8b73-b9a683ad5954)
